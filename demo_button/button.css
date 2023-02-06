@@ -1,0 +1,22 @@
+button {
+  background-color : #ffc0cb;
+  width: 100;
+  height: 100;
+  border : none;
+}
+
+button:hover {
+  background-color: #ffc000;
+}
+
+.layout {
+  display:flex;
+  border: 3px solid palegoldenrod;
+  flex-direction: column;
+  align-content:center;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
